@@ -1,0 +1,14 @@
+header {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+    background-color: white;
+}
+header h1{
+  
+background-color: white;
+}
+header .header__logo {
+  width: 4rem;
+    background-color: white;
+}
